@@ -1,8 +1,6 @@
 # MysteryGame
 Multi-Player game using Socket Programming.
 
-
-Dhavan here, I like Machine Learning and Programming in Python.
 This is a project that can be used to understand Socket Programming in Python.
 
 
